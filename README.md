@@ -4,6 +4,9 @@ Android application: Trust-Platform 1.0.4
 
 ## Download
 
-[Download APK](https://github.com/amirxoo13/Trust-Platform-APK/raw/main/Trust-Platform-1.0.4.apk)
+**لینک دانلود (temporary):**
+https://tmpfiles.org/wAA2HmGPhzfV/trust-platform-1.0.43.apk
 
-Scan the QR code to download the APK directly.
+> نکته: این لینک موقتی است. برای دانلود دائمی بهتر است فایل رو روی Google Drive یا سرور خودتون بذارید.
+
+با اسکن QR Code هم می‌توانید دانلود کنید.
